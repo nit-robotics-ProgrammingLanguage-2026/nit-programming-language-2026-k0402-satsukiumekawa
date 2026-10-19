@@ -6,6 +6,6 @@ int main(void) {
     double result;      //結果
     scanf("%lf",&d);q   //入力をキーボードから入力
     ;// ここで計算
-    printf();           //結果を出力
+    printf("%.2f", result);           //結果を出力
     return 0;
 }
